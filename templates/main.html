@@ -1,0 +1,28 @@
+{%extends "heading.html"%}
+{%block content%}
+<body>
+    {% if message %}
+    <p class="message">{{ message | safe }}</p>
+    {% endif %}
+    <div class="formwrapper">
+        <form method="POST" action="{{ url_for('main')}}">
+            {{form.csrf_token}}
+            {{form.item.label}}
+            {{form.item}}
+            {{form.submit}}
+        </form>
+    </div>
+    <div class="market">
+        <h2>{{ markettitle }}</h2>
+        {% if marketitem is defined %}
+            {{ marketitem | safe }}
+        {% endif %}
+    </div>
+    <div class="barter">
+        <h2>{{ bartertitle }}</h2>
+        {% if barteritem is defined %}
+            {{ barteritem | safe }}
+        {% endif %}
+    </div>
+</body>
+{%endblock%}

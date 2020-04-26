@@ -1,0 +1,56 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, Helvetica, sans-serif;
+  color: rgb(199, 199, 199);
+  background-color: rgb(70, 71, 65);
+}
+
+header {
+  background-color: rgb(114, 114, 114);
+  height: 35px;
+  width: 100%;
+  opacity: .9;
+  margin-bottom: 10px;
+}
+
+header h1.logo {
+  margin: 0;
+  font-size: 1.7em;
+  color: rgb(199, 199, 199);
+  float: left;
+  font: "Impact";
+}
+
+.container {
+  width: 1200px;
+  margin: 0 auto;
+}
+
+.formwrapper {
+  width: 1200px;
+  margin: 0 auto;
+}
+
+div.formfield {
+  margin-right: 5px;
+  display: inline;
+}
+
+div.form_label{
+  font-weight: bold;
+  margin-right: 5px;
+  display: inline;
+}
+
+div.stockfield {
+  display: inline-block;
+}
+
+#stocklist {
+  width:600px
+}
+
+div.button {
+  display: inline;
+}
