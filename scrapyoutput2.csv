@@ -1,0 +1,704 @@
+,dealer,name,reward,newname
+0,,"Trade
+",,['Trade']
+1,Prapor LL1," x5,T-Shaped Plug,
+",Submachinegun 19-01 Vityaz-SN 9x19,"['x5', 'T-Shaped Plug']"
+2,Prapor LL1," x1
+,Clin wiper,
+,
+",30 pcs. 5.45x39 BP gs ammo pack,"['x1', 'Clin wiper']"
+3,Prapor LL1," x1
+,Can of delicious beef stew,
+,
+",30 pcs. 5.45x39 BT gs ammo pack,"['x1', 'Can of delicious beef stew']"
+4,Prapor LL1," x2
+,Spark plug,
+,
+",Zenit-Belomo PSO 1M2-1 4x24 scope,"['x2', 'Spark plug']"
+5,Prapor LL1," x2
+,Horse figurine,
+,
+",AKS-74U,"['x2', 'Horse figurine']"
+6,Prapor LL1," x1,Bolts,+, x1,Screw nut,
+",PM (Makarov),"['x1', 'Bolts', 'x1', 'Screw nut']"
+7,Prapor LL1," x1,A pack of screws,+, x1,Bolts,
+",APS,"['x1', 'A pack of screws', 'x1', 'Bolts']"
+8,Prapor LL1," x2,D Size Battery,+, x4,AA Battery,
+",Mosin bolt-action sniper rifle,"['x2', 'D Size Battery', 'x4', 'AA Battery']"
+9,Prapor LL1," x3
+,Can of beef stew,
+,
+",AKM 7.62x39 assault rifle,"['x3', 'Can of beef stew']"
+10,Prapor LL2,"
+,Dry Fuel (D Fuel),
+,
+",30 pcs. 5.45x39 BT gs ammo pack,['Dry Fuel (D Fuel)']
+11,Prapor LL2," x2
+,Hot Rod,
+,
+",30 pcs. 5.45x39 BS gs ammo pack,"['x2', 'Hot Rod']"
+12,Prapor LL2,"
+,Energy-saving lamp (ES Lamp),
+,
+",RGD-5 hand grenade,['Energy-saving lamp (ES Lamp)']
+13,Prapor LL2,"Spark plug,+,Wrench,
+",6L18 45-round magazine for AK-74,"['Spark plug', 'Wrench']"
+14,Prapor LL2," x1
+,Round pliers,
+,
+",Standard 9x18PM 30-round magazine for PP-91,"['x1', 'Round pliers']"
+15,"Prapor LL2,Ice cream cones"," x2
+,Damaged hard drive (HDD),
+,
+",60-round 6L31 magazine for AK-74,"['x2', 'Damaged hard drive (HDD)']"
+16,Prapor LL2," x2
+,Pompon hat,
+,
+",MPL-50 entrenching tool (Shovel),"['x2', 'Pompon hat']"
+17,Prapor LL2,"
+,PC CPU,
+,
+",MP-443 Grach pistol,['PC CPU']
+18,Prapor LL2," x5
+,Air filter for gas mask,
+,
+",VSS Vintorez,"['x5', 'Air filter for gas mask']"
+19,Prapor LL2,"
+,Cat figurine,
+,
+",AKS-74UB,['Cat figurine']
+20,Prapor LL2," x4,Malboro Cigarettes,+, x6,Apollon Soyuz cigarettes,
+",SV-98,"['x4', 'Malboro Cigarettes', 'x6', 'Apollon Soyuz cigarettes']"
+21,Prapor LL2," x5
+,Apollon Soyuz cigarettes,
+,
+",AK-74N,"['x5', 'Apollon Soyuz cigarettes']"
+22,Prapor LL2," x2,Toothpaste,+, x2,Toilet paper,
+",AK-74 5.45x39 assault rifle,"['x2', 'Toothpaste', 'x2', 'Toilet paper']"
+23,Prapor LL3," x2
+,Insulating tape,
+,
+",8 pcs pack of 9x39 7N9 SPP ammo,"['x2', 'Insulating tape']"
+24,Prapor LL3," x2
+,Energy-saving lamp (ES Lamp),
+,
+",F-1 Hand grenade,"['x2', 'Energy-saving lamp (ES Lamp)']"
+25,Prapor LL3," x3
+,Pliers,
+,
+",30-round 9x39 SR3M magazine,"['x3', 'Pliers']"
+26,Prapor LL3," x2,Aquamari,+, x2,Air filter for gas mask,
+",6h5 Bayonet,"['x2', 'Aquamari', 'x2', 'Air filter for gas mask']"
+27,Prapor LL3," x1,Gunpowder ""Hawk"",
+",9x21 SR1MP Gyurza pistol,"['x1', 'Gunpowder ""Hawk""']"
+28,Prapor LL3," x4,Geiger-Muller counter (GMCount),+, x4 ,MRE,
+",AS VAL,"['x4', 'Geiger-Muller counter (GMCount)', 'x4 ', 'MRE']"
+29,Prapor LL3," x2,Gunpowder ""Kite"",+, x100,7.62x51 mm M61,
+",RPK-16 light machine gun,"['x2', 'Gunpowder ""Kite""', 'x100', '7.62x51 mm M61']"
+30,Prapor LL3," x4,Long flat screwdriver,+, x2,Metal cutting scissors,
+",Special Sniper Rifle VSS Vintorez,"['x4', 'Long flat screwdriver', 'x2', 'Metal cutting scissors']"
+31,Prapor LL3,"> Lvl 25 Dogtag, USEC, , , x8
+",6SH118 raid backpack,"['> Lvl 25 Dogtag', ' USEC', 'x8']"
+32,"Prapor LL4,Regulated materials"," x3,Bottle of vodka Tarkovskaya,
+",ASh-12 12.7x55 assault rifle,"['x3', 'Bottle of vodka Tarkovskaya']"
+33,"Prapor LL4,Grenadier"," x1
+,Strike Cigarettes,
+,
+",8 pcs pack of 9x39 7N12 BP ammo,"['x1', 'Strike Cigarettes']"
+34,Prapor LL4," x1
+,Gunpowder ""Eagle"",
+,
+",95-round magazine for RPK-16,"['x1', 'Gunpowder ""Eagle""']"
+35,Prapor LL4," x5
+,Military circuit board,
+,
+",ASh-12 12.7x55 assault rifle,"['x5', 'Military circuit board']"
+36,Prapor LL4," x2,Military cable,
+",6SH118 raid backpack,"['x2', 'Military cable']"
+37,Prapor LL4,"> Lvl 25 Dogtag, USEC, , , x9
+",AS VAL,"['> Lvl 25 Dogtag', ' USEC', 'x9']"
+38,,"Trade
+",,['Trade']
+39,Therapist LL1," x1,Paid AntiRoach,
+",Salewa FIRST AID KIT,"['x1', 'Paid AntiRoach']"
+40,Therapist LL1," x1,Vita juice,
+",Slickers bar,"['x1', 'Vita juice']"
+41,Therapist LL1," x1 ,Classic matches,+, x1,Crickent lighter,
+",Can of pacific saury,"['x1 ', 'Classic matches', 'x1', 'Crickent lighter']"
+42,Therapist LL1," x1,Disposable syringe,
+",Iskra lunch box,"['x1', 'Disposable syringe']"
+43,Therapist LL1," x2
+,Classic matches,
+,
+",Analgin painkillers,"['x2', 'Classic matches']"
+44,Therapist LL1," x2
+,Duct tape,
+,
+",Car first aid kit,"['x2', 'Duct tape']"
+45,Therapist LL1," x4,Classic matches,+, x4,Crickent lighter,
+",Pile of meds,"['x4', 'Classic matches', 'x4', 'Crickent lighter']"
+46,Therapist LL2,"> Lvl 10 Dogtag, , , x100
+",Lucky Scav Junkbox,"['> Lvl 10 Dogtag', 'x100']"
+47,Therapist LL2," x2,Disposable syringe,
+",Immobilizing splint (alu),"['x2', 'Disposable syringe']"
+48,Therapist LL2," x1,Rye croutons,
+",Emelya rye croutons,"['x1', 'Rye croutons']"
+49,Therapist LL2," x4
+,Golden neck chain (GoldChain),
+,
+",Customs office key,"['x4', 'Golden neck chain (GoldChain)']"
+50,Therapist LL2,"Cat figurine,+,Bronze lion,+, x5,Horse figurine,
+",Documents case (Docs),"['Cat figurine', 'Bronze lion', 'x5', 'Horse figurine']"
+51,Therapist LL2," x10,Crickent lighter,+, x2,Ortodontox toothpaste,+, x2,Toilet paper,
+",Grizzly First Aid Kit,"['x10', 'Crickent lighter', 'x2', 'Ortodontox toothpaste', 'x2', 'Toilet paper']"
+52,Therapist LL2," ,Pack of sugar,+, ,Sodium bicarbonate,
+",IFAK personal tactical first aid kit,"['Pack of sugar', 'Sodium bicarbonate']"
+53,Therapist LL2," x6,
+,Pile of meds,
+,
+",Pistol case,"['x6', 'Pile of meds']"
+54,Therapist LL2," x2,Disposable syringe,+, x1,Ultraviolet lamp,
+",Combat stimulant injector SJ1 TGLabs,"['x2', 'Disposable syringe', 'x1', 'Ultraviolet lamp']"
+55,Therapist LL2," x7,Medical bloodset,+, x7,Disposable syringe,+, x2
+,Vaseline,
+,
+",Meds case,"['x7', 'Medical bloodset', 'x7', 'Disposable syringe', 'x2', 'Vaseline']"
+56,Therapist LL3," x6,Purified water,+, x5,Water filter,
+",RB-AK key,"['x6', 'Purified water', 'x5', 'Water filter']"
+57,Therapist LL3," x8,Hydrogen peroxide (H2O2),+, x6,Saline solution (NaCl),+, x5,Purified water,
+",Keytool,"['x8', 'Hydrogen peroxide (H2O2)', 'x6', 'Saline solution (NaCl)', 'x5', 'Purified water']"
+58,Therapist LL3," x20,Ophthalmoscope,+, , x10, ,Pile of meds,
+",Items case (ICase),"['x20', 'Ophthalmoscope', 'x10', 'Pile of meds']"
+59,Therapist LL3," x2 ,Repellent,
+",CMS kit,"['x2 ', 'Repellent']"
+60,Therapist LL3,"> Lvl 39 Dogtag, , , x20,+,> Lvl 10 Dogtag, USEC, , , x140
+",LEDX Skin Transilluminator,"['> Lvl 39 Dogtag', 'x20', '> Lvl 10 Dogtag', ' USEC', 'x140']"
+61,Therapist LL3,"> Lvl 15 Dogtag, , , x140
+",Items case,"['> Lvl 15 Dogtag', 'x140']"
+62,Therapist LL4," x60 , ,Condensed milk, ,+, , x10
+,Pack of oat flakes,
+,
+",Key to KIBA store outlet,"['x60 ', 'Condensed milk', 'x10', 'Pack of oat flakes']"
+63,Therapist LL4," x2,Roler submariner gold wrist watch,+, x5,Golden neck chain (GoldChain),+, , x2,Gold skull ring,
+",Money case (MCase),"['x2', 'Roler submariner gold wrist watch', 'x5', 'Golden neck chain (GoldChain)', 'x2', 'Gold skull ring']"
+64,Therapist LL4," x10,Portable defibrillator,+, x10,LEDX Skin Transilluminator,+, x10,Ibuprofen painkillers,
+",T H I C C Items case,"['x10', 'Portable defibrillator', 'x10', 'LEDX Skin Transilluminator', 'x10', 'Ibuprofen painkillers']"
+65,Therapist LL4," x1,Hydrogen peroxide,+, x2,Saline solution,
+",Combat stimulant injector SJ6 TGLabs,"['x1', 'Hydrogen peroxide', 'x2', 'Saline solution']"
+66,Therapist LL4," x1,Pile of meds,+, x1,Medical bloodset,
+",Ibuprofen painkillers,"['x1', 'Pile of meds', 'x1', 'Medical bloodset']"
+67,Therapist LL4," x5,Pile of meds,
+",Pack of sugar,"['x5', 'Pile of meds']"
+68,Therapist LL4," x5,Schaman shampoo,
+",Regenerative stimulant injector eTG-change,"['x5', 'Schaman shampoo']"
+69,Therapist LL4," x50,""Fierce Hatchling"" moonshine,+, x30,Bottle of Dan Jackiel Whiskey,+, x35,Bottle of vodka Tarkovskaya,
+",T H I C C Items case,"['x50', '""Fierce Hatchling"" moonshine', 'x30', 'Bottle of Dan Jackiel Whiskey', 'x35', 'Bottle of vodka Tarkovskaya']"
+70,,"Trade
+",,['Trade']
+71,Skier LL1," x2
+,Horse figurine,
+,
+",Vepr KM/VPO-136,"['x2', 'Horse figurine']"
+72,Skier LL1," x1
+,Rechargeable battery,
+,
+",ADAR 2-15 .223 Carbine,"['x1', 'Rechargeable battery']"
+73,Skier LL2," x6
+,D Size Battery (D bat),
+,
+",Rotor 43 9x19 muzzle brake,"['x6', 'D Size Battery (D bat)']"
+74,"Skier LL3,Bullshit"," x1,T-Shaped Plug,
+",5 pcs. 12x70 DIPP ammo box,"['x1', 'T-Shaped Plug']"
+75,Skier LL3,"> Lvl 2 Dogtag, USEC, , , x5
+",Eotech 553,"['> Lvl 2 Dogtag', ' USEC', 'x5']"
+76,Skier LL3,"> Lvl 20 Dogtag, USEC, , , x5
+",Hensoldt FF 4-16x56 scope,"['> Lvl 20 Dogtag', ' USEC', 'x5']"
+77,Skier LL3," x3,Wooden clock,+, x2,Roler submariner gold wrist watch,
+",REAP-IR thermal riflescope,"['x3', 'Wooden clock', 'x2', 'Roler submariner gold wrist watch']"
+78,Skier LL3," x10
+,Horse figurine,
+,
+",DVL-10 Saboteur sniper rifle,"['x10', 'Horse figurine']"
+79,"Skier LL4,Setup"," x2,Chainlet,
+",20 pcs. 9x19 mm DIPP ammo box,"['x2', 'Chainlet']"
+80,"Skier LL4,Flint"," x2,Military COFDM wireless Signal Transmitter,+, x1,Military base checkpoint key,+, x2,Chain with Prokill medallion,+, x2,Phased array element,
+",M-2 Tactical Sword,"['x2', 'Military COFDM wireless Signal Transmitter', 'x1', 'Military base checkpoint key', 'x2', 'Chain with Prokill medallion', 'x2', 'Phased array element']"
+81,Skier LL4,"> Lvl 20 Dogtag, BEAR, , , x4
+",TGP-A 5.45x39 muzzle device/suppressor,"['> Lvl 20 Dogtag', ' BEAR', 'x4']"
+82,Skier LL4," x1,Phased array element,
+",DVL-10 Saboteur sniper rifle,"['x1', 'Phased array element']"
+83,Skier LL4," x8,""Fierce Hatchling"" moonshine,+, x2,Bottle of vodka Tarkovskaya,
+",Weapon case,"['x8', '""Fierce Hatchling"" moonshine', 'x2', 'Bottle of vodka Tarkovskaya']"
+84,,"Trade
+",,['Trade']
+85,Peacekeeper LL1," x8
+,Bars A-2607,
+,
+",MP5 9x19 submachinegun,"['x8', 'Bars A-2607']"
+86,Peacekeeper LL1," x2
+,Zibbo lighter,
+,
+",M67 Hand grenade,"['x2', 'Zibbo lighter']"
+87,Peacekeeper LL1," x4
+,Bars A-2607,
+,
+",P226R 9x19 pistol,"['x4', 'Bars A-2607']"
+88,Peacekeeper LL1,"
+,Damaged hard drive,
+,
+",Flyye MBSS Backpack,['Damaged hard drive']
+89,Peacekeeper LL2,"> Lvl 8 Dogtag, , , x7
+",SIG MPX 9x19 Submachine gun,"['> Lvl 8 Dogtag', 'x7']"
+90,Peacekeeper LL2," x3,PC CPU,+, x3,CPU Fan,
+",Colt M4A1 5.56x45 Assault Rifle,"['x3', 'PC CPU', 'x3', 'CPU Fan']"
+91,Peacekeeper LL2," x3,Damaged hard drive (HDD),+, x2,RAM,
+",DS Arms SA-58 7.62x51,"['x3', 'Damaged hard drive (HDD)', 'x2', 'RAM']"
+92,Peacekeeper LL3," x8,USB Adapter,
+",Springfield Armory M1A 7.62x51,"['x8', 'USB Adapter']"
+93,Peacekeeper LL3," x4
+,D Size Battery (D Bat),
+,
+",20 pcs pack 5.56x45 Warmage ammo,"['x4', 'D Size Battery (D Bat)']"
+94,Peacekeeper LL3," x2
+,Printed circuit board,
+,
+",60-round MAG5-60 M4 magazine,"['x2', 'Printed circuit board']"
+95,"Peacekeeper LL3,Wet Job - Part 2","
+,Air filter for gas mask,
+,
+",Magpul PMAG D-60 5.56x45 60-round magazine,['Air filter for gas mask']
+96,Peacekeeper LL3,"> Lvl 15 Dogtag, , , x20
+",Remington R11 RSASS 7.62x51,"['> Lvl 15 Dogtag', 'x20']"
+97,Peacekeeper LL3," x2,Military cable,
+",FN P90 5.7x28 submachinegun,"['x2', 'Military cable']"
+98,Peacekeeper LL3," x1,""Fierce Hatchling"" moonshine,
+",GPNVG-18 Night Vision,"['x1', '""Fierce Hatchling"" moonshine']"
+99,Peacekeeper LL3," x1,GP coin,
+",FN Five-seveN MK2 5.7x28 pistol,"['x1', 'GP coin']"
+100,Peacekeeper LL3," x2,Slim diary,+, , x2,Diary,
+",Folder with intelligence,"['x2', 'Slim diary', 'x2', 'Diary']"
+101,Peacekeeper LL3," x4,Phased array element,+, x7,Military circuit board, x1,LEDX Skin Transilluminator,
+",Secure container Beta,"['x4', 'Phased array element', 'x7', 'Military circuit board', 'x1', 'LEDX Skin Transilluminator']"
+102,Peacekeeper LL3,"> Lvl 25 Dogtag, BEAR,
+, x9
+,
+,
+",GPNVG-18 Night Vision,"['> Lvl 25 Dogtag', ' BEAR', 'x9']"
+103,Peacekeeper LL3,"> Lvl 30 Dogtag, BEAR, , , x10
+",Team Wendy EXFIL Ballistic Helmet,"['> Lvl 30 Dogtag', ' BEAR', 'x10']"
+104,Peacekeeper LL4," x3,GP coin,
+",AK-74N,"['x3', 'GP coin']"
+105,Peacekeeper LL4,"
+,Broken GPhone X,
+,
+",Crye Airframe Chops,['Broken GPhone X']
+106,Peacekeeper LL4,"Broken GPhone X,+, ,Power supply unit,
+",HK MP7A2 4.6x30 submachinegun,"['Broken GPhone X', 'Power supply unit']"
+107,Peacekeeper LL4," x3,Bottle of Dan Jackiel Whiskey,
+",Colt M4A1 5.56x45 Assault Rifle,"['x3', 'Bottle of Dan Jackiel Whiskey']"
+108,,"Trade
+",,['Trade']
+109,Mechanic LL1," x1,Broken GPhone,+, x2,Broken LCD,
+",AN/PVS-14 Night Vision Monocular,"['x1', 'Broken GPhone', 'x2', 'Broken LCD']"
+110,Mechanic LL1," x1,Pliers,+, x1,Screwdriver,+, x1,Wrench,+, x1,Insulating tape,+, x1,Construction measuring tape (MTape),
+",A set of tools,"['x1', 'Pliers', 'x1', 'Screwdriver', 'x1', 'Wrench', 'x1', 'Insulating tape', 'x1', 'Construction measuring tape (MTape)']"
+111,Mechanic LL1," x5,Gunpowder ""Kite"",+, x1,Gunpowder ""Eagle"",
+",Ammo case,"['x5', 'Gunpowder ""Kite""', 'x1', 'Gunpowder ""Eagle""']"
+112,Mechanic LL1," x2
+,Damaged hard drive (HDD), 
+,
+",Custom plastic MP-133 forestock with mounts,"['x2', 'Damaged hard drive (HDD)']"
+113,Mechanic LL1," x1
+,Physical bitcoin (0.2 BTC),
+,
+",HK MP7A1 4.6x30 submachinegun,"['x1', 'Physical bitcoin (0.2 BTC)']"
+114,Mechanic LL1," x4
+,Pliers Elite,
+,
+",MP-133 12ga shotgun,"['x4', 'Pliers Elite']"
+115,Mechanic LL1," x1
+,Roler submariner gold wrist watch,
+,
+",Submachinegun PP-19-01 Vityaz-SN 9x19,"['x1', 'Roler submariner gold wrist watch']"
+116,Mechanic LL1," x1,Wires,+, x2,Capacitors,
+",TT pistol 7.62x25 TT,"['x1', 'Wires', 'x2', 'Capacitors']"
+117,Mechanic LL1," x2,Physical bitcoin (0.2 BTC),+, x3,GP coin,
+",Colt M4A1 5.56x45 Assault Rifle,"['x2', 'Physical bitcoin (0.2 BTC)', 'x3', 'GP coin']"
+118,Mechanic LL1,"
+,Tetriz portable game,
+,
+",Physical bitcoin (0.2 BTC),['Tetriz portable game']
+119,Mechanic LL1,"Electric drill,+,Broken GPhone,
+",Vulcan MG night scope 3.5x,"['Electric drill', 'Broken GPhone']"
+120,Mechanic LL1,"
+,Physical bitcoin (0.2 BTC),
+,
+",Wilcox Skull Lock head mount,['Physical bitcoin (0.2 BTC)']
+121,Mechanic LL1," x12,Weapon parts,+, x4,WD-40 100ml.,+, x1,Phased array element,
+",AKM 7.62x39 assault rifle,"['x12', 'Weapon parts', 'x4', 'WD-40 100ml.', 'x1', 'Phased array element']"
+122,Mechanic LL1," x5,DVD drive,+, , x5,Ultraviolet lamp, ,+, , x2,Weapon parts,
+",SIG MPX 9x19 Submachine gun,"['x5', 'DVD drive', 'x5', 'Ultraviolet lamp', 'x2', 'Weapon parts']"
+123,Mechanic LL1," x3,Kinda cowboy hat,
+",GLOCK 17 9x19 pistol,"['x3', 'Kinda cowboy hat']"
+124,Mechanic LL1," x1,UZGRM grenade fuze,
+",VOG-17 Khattabka grenade,"['x1', 'UZGRM grenade fuze']"
+125,Mechanic LL2," x1,Military power filter,
+",Simonov Semi-Automatic Carbine SKS 7.62x39,"['x1', 'Military power filter']"
+126,Mechanic LL2," x3,Broken LCD,
+",Working LCD,"['x3', 'Broken LCD']"
+127,Mechanic LL2," x5,GP coin,
+",FN P90 5.7x28 submachinegun,"['x5', 'GP coin']"
+128,Mechanic LL2," x1,GP coin,
+",Simonov Semi-Automatic Carbine SKS 7.62x39,"['x1', 'GP coin']"
+129,Mechanic LL2," x3,Light bulb,+, x2,D Size Battery,
+",GLOCK 17 9x19 pistol,"['x3', 'Light bulb', 'x2', 'D Size Battery']"
+130,Mechanic LL2," x5,Light bulb,
+",GLOCK 17 9x19 pistol,"['x5', 'Light bulb']"
+131,Mechanic LL2," x3,Chainlet,
+",PM/PPSH 9x18PM 84-round drum mag for PM,"['x3', 'Chainlet']"
+132,Mechanic LL2," x12
+,Physical bitcoin (0.2 BTC),
+,
+",Weapon case (WCase),"['x12', 'Physical bitcoin (0.2 BTC)']"
+133,Mechanic LL2," x2,Military cable,+, x3,Energy-saving lamp,
+",Remington Model 700 Sniper rifle,"['x2', 'Military cable', 'x3', 'Energy-saving lamp']"
+134,Mechanic LL2," x1,Powerbank,+, , x1,Weapon parts,
+",Remington Model 870 12ga shotgun,"['x1', 'Powerbank', 'x1', 'Weapon parts']"
+135,Mechanic LL2," x20,Insulating tape,
+",Springfield Armory M1A 7.62x51,"['x20', 'Insulating tape']"
+136,Mechanic LL2," ,Mosin rifle sniper carbine stock,+, ,Regular 730mm Mosin barrel,+, x1,Wilston cigarettes,
+",Mosin bolt-action sniper rifle,"['Mosin rifle sniper carbine stock', 'Regular 730mm Mosin barrel', 'x1', 'Wilston cigarettes']"
+137,Mechanic LL2," x1,Chain with Prokill medallion,
+",Colt M4A1 5.56x45 Assault Rifle,"['x1', 'Chain with Prokill medallion']"
+138,Mechanic LL2," x2
+,Magnet,
+,
+",GLOCK 17 9x19 pistol,"['x2', 'Magnet']"
+139,Mechanic LL2," x5
+,Damaged hard drive (HDD),
+,
+",GLOCK 17 9x19 pistol,"['x5', 'Damaged hard drive (HDD)']"
+140,Mechanic LL2," x2
+,WD-40 400ml,
+,
+",GLOCK 17 9x19 pistol,"['x2', 'WD-40 400ml']"
+141,Mechanic LL2,"
+,Power supply unit (PSU),
+,
+",X-5 MP5 50-round 9x19 magazine,['Power supply unit (PSU)']
+142,Mechanic LL2," x2,AA Battery (AA bat),+, x2,D Size Battery (D bat),
+",SGA stock for M870,"['x2', 'AA Battery (AA bat)', 'x2', 'D Size Battery (D bat)']"
+143,Mechanic LL2,"
+,Electric drill,
+,
+",Osprey 9 9x19mm sound suppressor,['Electric drill']
+144,Mechanic LL2," x4,RAM,+, x1,T-Shaped Plug (T Plug),
+",Hybrid 46 multi-caliber silencer,"['x4', 'RAM', 'x1', 'T-Shaped Plug (T Plug)']"
+145,Mechanic LL2," x1,Nippers,+, x1,Wrench,
+",Upper receiver Colt M4A1,"['x1', 'Nippers', 'x1', 'Wrench']"
+146,Mechanic LL2,"
+,Rechargeable battery (RecBatt),
+,
+",Magpul MOE M870 forestock,['Rechargeable battery (RecBatt)']
+147,Mechanic LL2," x2
+,Power supply unit (PSU),
+,
+",Fab Defence GL Shock Stock,"['x2', 'Power supply unit (PSU)']"
+148,Mechanic LL2,"
+,Wilston cigarettes,
+,
+",Colt AR-15 charging handle,['Wilston cigarettes']
+149,Mechanic LL2," x4,Malboro Cigarettes,+, x2,Apollon Soyuz cigarettes,
+",260mm barrel for AR-15,"['x4', 'Malboro Cigarettes', 'x2', 'Apollon Soyuz cigarettes']"
+150,Mechanic LL2," x1,CPU Fan,+, x1,RAM,
+",Daniel Defence FDE RIS II FSP 9.5 foregrip for AR-15-compatible systems,"['x1', 'CPU Fan', 'x1', 'RAM']"
+151,Mechanic LL2," x15
+,T-Shaped Plug,
+,
+",ProMag AK-A-16 73-round 7.62x39 magazine for AKM and compatibles,"['x15', 'T-Shaped Plug']"
+152,Mechanic LL2," x2,Broken GPhone,+,Printed circuit board,
+",GLOCK 17 9x19 pistol,"['x2', 'Broken GPhone', 'Printed circuit board']"
+153,Mechanic LL2," x1,GP coin,+, , x1,Physical bitcoin,
+",Colt M4A1 5.56x45 Assault Rifle,"['x1', 'GP coin', 'x1', 'Physical bitcoin']"
+154,Mechanic LL3," x4,GP coin,
+",Colt M4A1 5.56x45 Assault Rifle,"['x4', 'GP coin']"
+155,Mechanic LL3," x3,Malboro Cigarettes,+, x1,Military cable,
+",AK-74M 5.45x39 assault rifle,"['x3', 'Malboro Cigarettes', 'x1', 'Military cable']"
+156,Mechanic LL3," x3
+,Phased array element,
+,
+",6B43 Zabralo-Sh 6A Armor,"['x3', 'Phased array element']"
+157,Mechanic LL3," x8,Weapon parts,
+",DS Arms SA-58 7.62x51,"['x8', 'Weapon parts']"
+158,Mechanic LL3," x2
+,GP coin,
+,
+",GLOCK 17 9x19 pistol,"['x2', 'GP coin']"
+159,Mechanic LL3," x8,Capacitors,+, x2,Weapon parts,
+",RPK-16 light machine gun,"['x8', 'Capacitors', 'x2', 'Weapon parts']"
+160,Mechanic LL3," x17
+,Wilston cigarettes,
+,
+",Springfield Armory M1A 7.62x51,"['x17', 'Wilston cigarettes']"
+161,Mechanic LL3," x4
+,Wires,
+,
+",X-5 MP5 50-round 9x19 magazine,"['x4', 'Wires']"
+162,Mechanic LL3," x12,Weapon parts,
+",DS Arms SA-58 7.62x51,"['x12', 'Weapon parts']"
+163,Mechanic LL3," x8,Electric motor,+, x15,Wires,+, x4,Broken LCD,+, x1,Phased array element,
+",Weapon case,"['x8', 'Electric motor', 'x15', 'Wires', 'x4', 'Broken LCD', 'x1', 'Phased array element']"
+164,Mechanic LL3," x2
+,Physical bitcoin (0.2 BTC),
+,
+",AK-104 7.62x39 assault rifle,"['x2', 'Physical bitcoin (0.2 BTC)']"
+165,Mechanic LL3," x1,Physical bitcoin,+, x2,GP coin,
+",Lone Star TX-15 DML Rifle,"['x1', 'Physical bitcoin', 'x2', 'GP coin']"
+166,Mechanic LL3," x1,Military thermal vision module Iridium, ,+, x2,Military gyrotachometer,+, x1,Military circuit board,
+",FLIR RS-32 2.25-9x 35mm 60Hz thermal riflescope,"['x1', 'Military thermal vision module Iridium', 'x2', 'Military gyrotachometer', 'x1', 'Military circuit board']"
+167,Mechanic LL3," x7,Tube of Poxeram Cold Welding,
+",TerraGroup Labs access keycard,"['x7', 'Tube of Poxeram Cold Welding']"
+168,Mechanic LL4," x2,Military thermal vision module Iridium,+, x4,Military circuit board,
+",Trijicon REAP-IR thermal riflescope,"['x2', 'Military thermal vision module Iridium', 'x4', 'Military circuit board']"
+169,Mechanic LL4," x2,Physical bitcoin (0.2 BTC),
+",TerraGroup Labs access keycard,"['x2', 'Physical bitcoin (0.2 BTC)']"
+170,Mechanic LL4," x35
+,Physical bitcoin (0.2 BTC),
+,
+",T H I C C Weapon case,"['x35', 'Physical bitcoin (0.2 BTC)']"
+171,Mechanic LL4,"
+,Geiger-Muller counter (GMCount),
+,
+",X-14 M14 50 round 7.62x51 magazine,['Geiger-Muller counter (GMCount)']
+172,Mechanic LL4,"
+,Broken GPhone,
+,
+",X-FAL FAL/SA-58 7.62x51 50 rnd magazine,['Broken GPhone']
+173,Mechanic LL4," x3
+,Printed circuit board,
+,
+",M14 Ultimak M8 upper part,"['x3', 'Printed circuit board']"
+174,Mechanic LL4," x4,Round pliers,
+",MaxRounds Powermag 20-round 12/76 magazine,"['x4', 'Round pliers']"
+175,Mechanic LL4," x4,NIXXOR lens,
+",DS Arms SA-58 7.62x51,"['x4', 'NIXXOR lens']"
+176,Mechanic LL4," x2,SAS drive,+, x2,SSD drive,
+",Graphics card,"['x2', 'SAS drive', 'x2', 'SSD drive']"
+177,,"Trade
+",,['Trade']
+178,Ragman LL1," x2
+,Ox bleach,
+,
+",6B47 Ratnik-BSh Helmet,"['x2', 'Ox bleach']"
+179,Ragman LL1," x3,Soap,+, x4,Toilet paper,
+","6B5-15 Zh -86 ""Uley"" armored rig","['x3', 'Soap', 'x4', 'Toilet paper']"
+180,Ragman LL1," x3
+,Lower half-mask,
+,
+",PACA Soft Armor,"['x3', 'Lower half-mask']"
+181,Ragman LL1," x1
+,Chainlet,
+,
+",K1S Visor (Kolpak),"['x1', 'Chainlet']"
+182,Ragman LL1,"> Lvl 1 Dogtag, , x2
+",Flyye MBSS Backpack,"['> Lvl 1 Dogtag', 'x2']"
+183,Ragman LL1," x1
+,Alyonka chocolate bar,
+,
+",VKBO army bag,"['x1', 'Alyonka chocolate bar']"
+184,Ragman LL1," x2
+,Printer paper,
+,
+",GSSh-01 active headset,"['x2', 'Printer paper']"
+185,Ragman LL2," x1,Chainlet,
+",Tactical fleece hat,"['x1', 'Chainlet']"
+186,"Ragman LL2,Therapists,Pharmacist","> Lvl 10 Dogtag, , , x7
+",6B47 Helmet with cover (flora digital),"['> Lvl 10 Dogtag', 'x7']"
+187,Ragman LL2," x4
+,Golden TT,+, x8,Chainlet,
+,
+",5.11 Tactec plate carrier,"['x4', 'Golden TT', 'x8', 'Chainlet']"
+188,Ragman LL2," x2
+,Anti-fragmentation glasses (AFGlass),
+,
+",UNTAR helmet,"['x2', 'Anti-fragmentation glasses (AFGlass)']"
+189,Ragman LL2," x3
+,Max energy,
+,
+",MF-UNTAR armor vest,"['x3', 'Max energy']"
+190,Ragman LL2," x1,Coffee Majaica,+, x1,TarCola,+, , x1,Pack of milk,
+",BNTI Kirasa-N armor,"['x1', 'Coffee Majaica', 'x1', 'TarCola', 'x1', 'Pack of milk']"
+191,Ragman LL2," x2
+,Piece of plexiglas,
+,
+",ZSh-1-2M face shield,"['x2', 'Piece of plexiglas']"
+192,Ragman LL2," x6
+,Classic matches,
+,
+",Peltor ComTac 2 headset,"['x6', 'Classic matches']"
+193,Ragman LL2," x5,Duct tape,+, x1,Heat-exchange alkali surface washer,
+",ANA Tactical Alpha chest rig,"['x5', 'Duct tape', 'x1', 'Heat-exchange alkali surface washer']"
+194,Ragman LL2," x4,Energy-saving lamp (ES Lamp),
+",Camelbak Tri-Zip Backpack,"['x4', 'Energy-saving lamp (ES Lamp)']"
+195,Ragman LL2," x1,Aramid fiber cloth,+, x1,Ripstop cloth,
+",Module-3M bodyarmor,"['x1', 'Aramid fiber cloth', 'x1', 'Ripstop cloth']"
+196,Ragman LL3," x3
+,Piece of plexiglas,
+,
+",LSHZ-2DTM face shield,"['x3', 'Piece of plexiglas']"
+197,Ragman LL3," x3,GP coin,
+",Maska 1Sch helmet,"['x3', 'GP coin']"
+198,"Ragman LL3,Supervisor"," x2,Golden neck chain (GoldChain),+, x3,Coffee Majaica,
+",BNTI Gzhel-K armor,"['x2', 'Golden neck chain (GoldChain)', 'x3', 'Coffee Majaica']"
+199,Ragman LL3," x4
+,Aquamari,
+,
+",ANA Tactical M1 armored rig,"['x4', 'Aquamari']"
+200,Ragman LL3," x4,Round frame sunglasses (RGlass),+, x3,K1S Visor (Kolpak),
+",ANA Tactical M2 armored rig,"['x4', 'Round frame sunglasses (RGlass)', 'x3', 'K1S Visor (Kolpak)']"
+201,Ragman LL3," x4,GP-5 gasmask,+, x6,Neoprene mask (Fire Mask),
+",5.11 Tactec plate carrier,"['x4', 'GP-5 gasmask', 'x6', 'Neoprene mask (Fire Mask)']"
+202,Ragman LL3," x3,Ortodontox toothpaste,+, x5,Schaman shampoo,
+",Crye Precision AVS platecarrier,"['x3', 'Ortodontox toothpaste', 'x5', 'Schaman shampoo']"
+203,Ragman LL3," x3
+,Altyn face shield,
+,
+",Altyn face shield,"['x3', 'Altyn face shield']"
+204,Ragman LL3,"
+,Antique teapot,
+,
+",Belt-A + Belt-B gear rig,['Antique teapot']
+205,Ragman LL3," x1,Pack of sugar,+, x3,Can of pacific saury,+, x3,Slickers bar,
+","SSO ""Attack 2"" raid backpack","['x1', 'Pack of sugar', 'x3', 'Can of pacific saury', 'x3', 'Slickers bar']"
+206,Ragman LL3," x5,Screwdriver,+, x5,Wrench,+, x1,Metal cutting scissors,
+",DEVTAC Ronin ballistic helmet,"['x5', 'Screwdriver', 'x5', 'Wrench', 'x1', 'Metal cutting scissors']"
+207,Ragman LL3," x10,GP coin,
+",IOTV Gen4 armor (high mobility kit),"['x10', 'GP coin']"
+208,Ragman LL3," x3,Bottle of Dan Jackiel Whiskey,
+",Ars Arma A18 Skanda plate carrier,"['x3', 'Bottle of Dan Jackiel Whiskey']"
+209,Ragman LL3," x4,Ox bleach, x2,Schaman shampoo,
+",Wartech TV-110 plate carrier,"['x4', 'Ox bleach', 'x2', 'Schaman shampoo']"
+210,Ragman LL3," x4,Fleece cloth,+, x3,Aramid fiber cloth,+, x1,Paracord, , x5,Duffle bag,
+",LBT-2670 Slim Field Med Pack,"['x4', 'Fleece cloth', 'x3', 'Aramid fiber cloth', 'x1', 'Paracord', 'x5', 'Duffle bag']"
+211,Ragman LL3," x16 ,> Lvl 30 Dogtag, USEC,
+",Vulkan-5 (LShZ-5) heavy helmet,"['x16 ', '> Lvl 30 Dogtag', ' USEC']"
+212,Ragman LL4," x4
+,Wooden clock, , , x2 , ,Cat figurine,
+,
+",IOTV Gen4 armor (Full),"['x4', 'Wooden clock', 'x2 ', 'Cat figurine']"
+213,Ragman LL4," x4
+,Piece of plexiglas,
+,
+",Altyn face shield,"['x4', 'Piece of plexiglas']"
+214,Ragman LL4," x2
+,GP coin,
+,
+",Maska 1Sch face shield,"['x2', 'GP coin']"
+215,Ragman LL4," x7
+,Piece of plexiglas,
+,
+",Vulkan-5 face shield,"['x7', 'Piece of plexiglas']"
+216,"Ragman LL4,Hot delivery"," x3
+,Bronze lion,
+,
+",IOTV Gen4 armor (Full),"['x3', 'Bronze lion']"
+217,Ragman LL4," x2
+,Antique vase, , , x3 , ,Antique teapot,
+,
+",Zhuk-6a heavy armor,"['x2', 'Antique vase', 'x3 ', 'Antique teapot']"
+218,Ragman LL4,"> Lvl 20 Dogtag, , , x10
+",ANA Tactical M2 armored rig,"['> Lvl 20 Dogtag', 'x10']"
+219,Ragman LL4,"> Lvl 20 Dogtag, , , x6
+",Altyn face shield,"['> Lvl 20 Dogtag', 'x6']"
+220,Ragman LL4," x7,Ox bleach,
+",Mystery Ranch Blackjack 50 backpack,"['x7', 'Ox bleach']"
+221,Ragman LL4,"> Lvl 10 Dogtag, , ,
+",Kinda cowboy hat,['> Lvl 10 Dogtag']
+222,"Ragman LL4,Scavenger"," x1,Marked key,+, ,Office 112 West wing key,+, x7,Paracord,
+",Crash Axe,"['x1', 'Marked key', 'Office 112 West wing key', 'x7', 'Paracord']"
+223,Ragman LL4," x4
+,6B43 Zabralo-Sh 6A Armor (Damaged),
+,
+",6B43 Zabralo-Sh 6A Armor,"['x4', '6B43 Zabralo-Sh 6A Armor (Damaged)']"
+224,Ragman LL4," x5,Round pliers,+, x5,Construction measuring tape,+, x4,Pliers,
+",Altyn helmet,"['x5', 'Round pliers', 'x5', 'Construction measuring tape', 'x4', 'Pliers']"
+225,Ragman LL4," x1,""Fierce Hatchling"" moonshine,+, x5,Bottle of vodka Tarkovskaya,
+",6B43 Zabralo-Sh 6A Armor,"['x1', '""Fierce Hatchling"" moonshine', 'x5', 'Bottle of vodka Tarkovskaya']"
+226,Ragman LL4," x3,Gold skull ring,+, x6,Golden neck chain,
+",IOTV Gen4 armor (assault kit),"['x3', 'Gold skull ring', 'x6', 'Golden neck chain']"
+227,Ragman LL4," x4,Air filter for gas mask,+, x2,Paracord,
+",FORT Redut-T5 body armor,"['x4', 'Air filter for gas mask', 'x2', 'Paracord']"
+228,Ragman LL4," x1,Antique vase,+, x6,Chainlet,
+",5.11 Tactec plate carrier,"['x1', 'Antique vase', 'x6', 'Chainlet']"
+229,Ragman LL4," x1,Gold skull ring,+, x2,Golden neck chain,
+",Ars Arma A18 Skanda plate carrier,"['x1', 'Gold skull ring', 'x2', 'Golden neck chain']"
+230,Ragman LL4," x3,Polyamide fabric Cordura,+, x3,Aramid fiber cloth,+,x2,Ripstop cloth,
+",Ars Arma CPC MOD.2 plate carrier,"['x3', 'Polyamide fabric Cordura', 'x3', 'Aramid fiber cloth', 'x2', 'Ripstop cloth']"
+231,Ragman LL4,"Highcom Trooper TFO armor (multicam),
+,+, x6,Polyamide fabric Cordura,
+,
+",LBT 6094A Slick Plate Carrier,"['Highcom Trooper TFO armor (multicam)', 'x6', 'Polyamide fabric Cordura']"
+232,Ragman LL4,"> Lvl 30 Dogtag, BEAR, , , x25
+",6B43 Zabralo-Sh 6A Armor,"['> Lvl 30 Dogtag', ' BEAR', 'x25']"
+233,,"Trade
+",,['Trade']
+234,Jaeger LL1," x2,Wrench,+, x2,Screwdriver,
+",MP-153 12ga semi-automatic shotgun,"['x2', 'Wrench', 'x2', 'Screwdriver']"
+235,Jaeger LL1," x1,Soap,
+",VKBO army bag,"['x1', 'Soap']"
+236,Jaeger LL1," x2
+,Bolts,
+,
+",Cobra EKP-8-18 reflex sight,"['x2', 'Bolts']"
+237,Jaeger LL1,"
+,Zibbo lighter,
+,
+",5 Round Magazine for Saiga 12,['Zibbo lighter']
+238,Jaeger LL1," x2,Classic matches,
+",Dovetail OP-SKS mount.,"['x2', 'Classic matches']"
+239,Jaeger LL1," x3,Nippers,
+",CMS kit,"['x3', 'Nippers']"
+240,Jaeger LL1," x15,Classic matches,
+",Metal fuel tank,"['x15', 'Classic matches']"
+241,Jaeger LL2," ,Powerbank,+, x2,Magnet,+, ,Ultraviolet lamp (UV Lamp),
+",Nightforce ATACR 7-35x56 riflescope,"['Powerbank', 'x2', 'Magnet', 'Ultraviolet lamp (UV Lamp)']"
+242,Jaeger LL2," x1
+,5L propane tank,
+,
+",34mm one piece magmount made by Nightforce,"['x1', '5L propane tank']"
+243,Jaeger LL2," x4, ,Iskra lunch box,+, x1,MRE,+, x1 , ,Factory exit key, (worn)
+",Factory exit key,"['x4', 'Iskra lunch box', 'x1', 'MRE', 'x1 ', 'Factory exit key', ' (worn)']"
+244,Jaeger LL2," x10,Hot Rod,+, x5 ,TarCola,+, x5,Can of herring,+, x5,Squash spread,
+",Mr. Holodilnick thermobag,"['x10', 'Hot Rod', 'x5 ', 'TarCola', 'x5', 'Can of herring', 'x5', 'Squash spread']"
+245,Jaeger LL2," x2,Technical documentation,+, x5,Bottle of vodka Tarkovskaya,+, x3,Can of beef stew,
+",Military base checkpoint key,"['x2', 'Technical documentation', 'x5', 'Bottle of vodka Tarkovskaya', 'x3', 'Can of beef stew']"
+246,Jaeger LL2," x5,Hunter matches,
+",Splav Tarzan M22 Rig,"['x5', 'Hunter matches']"
+247,Jaeger LL3," x5,Pack of sugar, ,+, x2,Water bottle with a filter Aquamari,
+",FLIR RS-32 2.25-9x 35mm 60Hz thermal riflescope,"['x5', 'Pack of sugar', 'x2', 'Water bottle with a filter Aquamari']"
+248,Jaeger LL3," x3
+,Iskra lunch box,
+,
+",Bramit silencer for a Mosin rifle,"['x3', 'Iskra lunch box']"
+249,Jaeger LL3," x10 ,Paracord,+, , x15 , ,Duct tape,+, x10 ,Insulating tape,+, x12 , ,A pack of nails,
+",Small S I C C case,"['x10 ', 'Paracord', 'x15 ', 'Duct tape', 'x10 ', 'Insulating tape', 'x12 ', 'A pack of nails']"
+250,Jaeger LL3," x5 , ,Toothpaste,+, , x5 , ,Toilet paper, +, , x2 , ,Hydrogen peroxide,
+",Camper axe,"['x5 ', 'Toothpaste', 'x5 ', 'Toilet paper', ' +', 'x2 ', 'Hydrogen peroxide']"
+251,Jaeger LL3," x15,Dry fuel, ,+, , x15,5L propane tank, ,+, , x10,Fuel conditioner,
+",Red Rebel Ice pick,"['x15', 'Dry fuel', 'x15', '5L propane tank', 'x10', 'Fuel conditioner']"
+252,Jaeger LL3," x10,Radiator helix,
+",Trijicon REAP-IR thermal riflescope,"['x10', 'Radiator helix']"
+253,Jaeger LL3," x5,Can of sprats,+, x4,Water bottle with a filter Aquamari,+, x6,Squash spread,
+",Saiga 12ga ver. 10 12/76 shotgun,"['x5', 'Can of sprats', 'x4', 'Water bottle with a filter Aquamari', 'x6', 'Squash spread']"
+254,Jaeger LL3," x5 ,SurvL Survivor Lighter,+, x15 ,Hunter matches,+, x8 ,Repellent,
+",Grenade case,"['x5 ', 'SurvL Survivor Lighter', 'x15 ', 'Hunter matches', 'x8 ', 'Repellent']"
+255,Jaeger LL4," x1,Water bottle with a filter Aquamari,
+",20 pcs. 9x19 mm DIPP ammo box,"['x1', 'Water bottle with a filter Aquamari']"
+256,Jaeger LL4," x5,Humpback salmon,
+",20 pcs pack 5.56x45 Warmage ammo,"['x5', 'Humpback salmon']"
+257,Jaeger LL4," x1,Can of pacific saury,
+",5 pcs. 12x70 DIPP ammo box,"['x1', 'Can of pacific saury']"
+258,Jaeger LL4," x7 , ,Cyclon accumulator battery, ,+, , x10 , ,GreenBat lithium battery, ,+, , x5 , ,Long flat screwdriver,
+",Key RB-PSP2,"['x7 ', 'Cyclon accumulator battery', 'x10 ', 'GreenBat lithium battery', 'x5 ', 'Long flat screwdriver']"
+259,Jaeger LL4,"> Lvl 30 Dogtag, USEC, , , x15, ,> Lvl 39 Dogtag, BEAR, , , x1
+",Trijicon REAP-IR thermal riflescope,"['> Lvl 30 Dogtag', ' USEC', 'x15', '> Lvl 39 Dogtag', ' BEAR', 'x1']"
